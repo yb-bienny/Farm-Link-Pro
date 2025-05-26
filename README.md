@@ -8,3 +8,4 @@
    3. Map view of nearby markets
    4. Data protection and privacy features
    5. Offline capabilities for rural areas
+4. Optimize the use of html-5, css, tailwind css, javascript, and python for the best UI/UX design with increased interactivity and highly appealing background designs.
